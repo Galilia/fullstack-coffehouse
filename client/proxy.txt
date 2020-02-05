@@ -1,0 +1,9 @@
+Backend
+
+/api/auth/login
+/api/category
+
+
+Frontend
+/api/auth/login
+/api/category
