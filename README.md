@@ -6,11 +6,9 @@
 ## Features
 - User authentication with JWT (JSON Web Token)
 - Login, password validation
-- CRUD operations for folders: create, remove, and update
-- Add files to folders
-- Sort folders and files by name, date, and type
-- Folder and file details displayed in a table, including size and date of creation
-- Intuitive navigation for entering and exploring folders
+- Analytics tables
+- Add items to order
+- Watch, sort history of clients orders
 
 ### Authorization Page
 ![image](https://github.com/Galilia/fullstack-coffehouse/assets/20660693/37ee89a0-8c13-410c-96e4-92fade64c212)
@@ -44,21 +42,15 @@ git clone https://github.com/Galilia/fullstack-coffehouse.git
 Navigate to the project directory:
 
 ```
-cd fullstack-coffehouse/client
-cd / - server
+cd fullstack-coffehouse/client - client
+cd fullstack-coffehouse - server
 ```
 Install dependencies:
 
 ```
 npm install
 ```
-Start the development server:
-
-```
-npm start
-```
-
-Start the development client:
+Start the development client + server:
 
 ```
 npm run dev
