@@ -1,7 +1,7 @@
 ﻿# Fullstack MEAN application - Coffee House
  
  A beautifully designed Coffee House application built using the MEAN stack (MongoDB, Express, Angular, Node.js) 
- with advanced features like JWT authentication and validation, and extensive file management capabilities.
+ with advanced features like JWT authentication and validation, and extensive order management capabilities.
 
 ## Features
 - User authentication with JWT (JSON Web Token)
